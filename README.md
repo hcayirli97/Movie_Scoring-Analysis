@@ -15,4 +15,16 @@ Looking at the graph of the score obtained by years, it is seen that the best mo
 ![score_years](https://github.com/hcayirli97/Movie_Scoring-Analysis/blob/master/results/year_score.png)
 
 When the movies are sorted according to their scores, the top 20 movies are shown in the chart below.
-![best_scores](https://github.com/hcayirli97/Movie_Scoring-Analysis/blob/master/results/best_score.png)
+![best_scores](https://github.com/hcayirli97/Movie_Scoring-Analysis/blob/master/results/best_score_movies.png)
+
+Considering the scores of the movies according to their genres, the most popular and highest scoring movie genres are shown in the chart below.
+![best_genres](https://github.com/hcayirli97/Movie_Scoring-Analysis/blob/master/results/genre_avgscore.png)
+
+When the movies in the dataset are analyzed according to their genres, the ratio of the types of movies released to all movies is given in the chart below. 
+It is seen that the most popular movie genre is drama movies.
+![pie_chart](https://github.com/hcayirli97/Movie_Scoring-Analysis/blob/master/results/counts_genre.png)
+
+The changes in scores and trendlines of the released movie genres over the years are shown in the charts below.
+
+
+![trand](https://github.com/hcayirli97/Movie_Scoring-Analysis/blob/master/results/Trendline-Score%20Graph.png)
